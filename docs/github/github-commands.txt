@@ -2,4 +2,7 @@ Github commands
 
 
 
+Get list of files changed in a branch
 
+git checkout <branch name>
+git diff --name-only <master branch name>

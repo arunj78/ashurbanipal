@@ -1,0 +1,4 @@
+Disk usage:
+
+Disk partition usage: df -h <optional partitiion name >
+Top 5 directories consuming space:  du -a | sort -n -r | head -n 5
